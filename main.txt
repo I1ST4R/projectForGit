@@ -1,7 +1,6 @@
-ya sha la v a tr
 
 //Login here
 {
-  login func
+  another func logic 
 }
 
