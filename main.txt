@@ -1,4 +1,3 @@
-ya sha la v a tr
 
 //Login here
 {
