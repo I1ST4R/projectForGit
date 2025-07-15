@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lnzeMAUEZ4o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Home_PC\\Desktop\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home_PC\\.nuget\\packages\\anglesharp\\1.3.0\\anglesharp.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
